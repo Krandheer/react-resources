@@ -13,3 +13,5 @@ Feel free to add more resources to the list an open up a PR.
 8. [React Hooks Playlist by Ben Awad on Youtube](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 9. [Redux tutorial by Programming with Mosh on Youtube](https://www.youtube.com/watch?v=poQXNp9ItL4)
 10. [Build an expense tracker in React using Context API by Traversy Media on Youtube](https://www.youtube.com/watch?v=XuFDcZABiDQ)
+11. [Reactjs tutorial for beginner by codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+12. [Complete react tutorial (and redux) by the net ninza](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
